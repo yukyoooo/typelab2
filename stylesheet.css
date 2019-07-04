@@ -98,7 +98,7 @@ text-decoration: none !important;
   top:97%;
   left: 50%;
   -webkit-transform : translate(-50%,-3%);
-  transform : translate(-50%,-3%);
+  transform : translate(-50%,0%);
   text-align: center;
 }
 .card h2{
@@ -200,4 +200,19 @@ footer p{
 }
 .contents-wrapper h5{
   padding: 20px 0;
+}
+
+
+
+/*  */
+/*  お問い合わせフォーム*/
+/*  */
+form span{
+  color:#D04255;
+}
+.contact-wrapper{
+  margin-bottom: 1000px;
+}
+.btn-submit{
+  width: 100px;
 }
