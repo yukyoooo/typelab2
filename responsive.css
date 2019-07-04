@@ -4,12 +4,6 @@
 .typelab-top-wrapper{
   height: 600px;
 }
-@media all and (max-width: 1024px) {
-
-
-.typelab-top-wrapper{
-  height: 600px;
-}
 
 }
 
@@ -46,23 +40,11 @@
   font-size: 0.9em;
   padding-top: 15px;
 }
-
-
-
-
+/*  お問い合わせ*/
+.contact-wrapper{
+  margin-bottom: 1100px;
 }
 
-}
 
-@media (max-width:720px) {
 
-.typelab-top-wrapper{
-  height: 300px;
-}
-.typelab-top-text h2{
-  font-size:1.2em;
-}
-.typelab-top-text p{
-  font-size:0.8em;
-}
 }
