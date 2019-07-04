@@ -9,6 +9,7 @@
 
 @media (max-width:720px) {
 
+
 .typelab-top-wrapper{
   height: 300px;
 }
@@ -22,6 +23,7 @@
 /*  4typeのページ*/
 .typelab-wrapper{
   margin-bottom: 500px;
+  background-image: url(img/four-leaf-clover-3336774_1280.jpg);
 }
 .card{
   width:340px;
@@ -45,6 +47,11 @@
   margin-bottom: 1100px;
 }
 
+.terms-text p{
+  font-size: 0.8em;
+  line-height:1.5em;
+  padding:0;
+}
 
 
 }
